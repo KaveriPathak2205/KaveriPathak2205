@@ -69,7 +69,7 @@ Building intelligent agents that think, retrieve, and act. Passionate about LLMs
 
 ## 📬 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaveri-pathak) [![Email](https://img.shields.io/badge/Email-1A3A5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaveri@email.com) [![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaveriPathak2205)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaveri-pathak-51b750243/) [![Email](https://img.shields.io/badge/Email-1A3A5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaveriupathak@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaveriPathak2205)
 
 > 💼 **Actively looking for AI Automation / ML Engineering roles.**
 > If you're building something interesting with agents, RAG, or LLM pipelines — let's talk!
