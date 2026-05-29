@@ -13,7 +13,7 @@
 
 ```python
 class KaveriPathak:
-    location     = "India 🇮🇳"
+    location     = "UAE . AE"
     role         = "AI Agent Automation Engineer · Fresh Graduate"
     focus        = ["AI Agent Automation", "RAG Systems", "n8n Workflows"]
     open_to      = "AI Automation / ML Engineering roles (open to relocation)"
